@@ -37,7 +37,8 @@
     "once": "1.4.0",
     "pretty-hrtime": "1.0.3",
     "uuid": "3.0.1",
-    "vasync": "2.2.0"
+    "vasync": "2.2.0",
+    "vmadm": "joyent/node-vmadm#linuxcn"
   },
   "devDependencies": {
     "tape": "4.6.3"
